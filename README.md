@@ -78,7 +78,7 @@ No filter. No corporate speak. Just building stuff I find interesting.
 
 | cluster | repos |
 |---|---|
-| 🤖 **agent studio** | `agent-kit` · `agent-lab` · `agent-source` |
+| 🤖 **agent studio** | `agent-kit` · `agent-lab` |
 | 🚚 **logistics platform** | `logistics-hub` · `ktm-cargo` · `cross-border-cargo` · `cargoflow` · `logistics-cross-border` · `logipro` |
 | 🌐 **personal** | `freddie-portfolio` · `my-teashop-pos` · `restaurant-pos` · `notion-store` |
 | 🗄️ **archived** | `archive-*` · `freddie-portfolio-legacy` |
