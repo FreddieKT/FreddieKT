@@ -32,6 +32,7 @@ No filter. No corporate speak. Just building stuff I find interesting.
 | [ktm-cargo](https://github.com/FreddieKT/ktm-cargo) | ⚡ KTM Cargo Express — real shipping + shopping platform | **active** |
 | [agent-kit](https://github.com/FreddieKT/agent-kit) | 🤖 modular AI agent toolkit | **building** |
 | [agent-lab](https://github.com/FreddieKT/agent-lab) | 🧪 personal agent workspace & experiments | **always tinkering** |
+| [openclaw-workspace](https://github.com/FreddieKT/openclaw-workspace) | 🦞 Knox — my personal AI agent running 24/7 via Telegram | **running** |
 
 ---
 
@@ -78,7 +79,7 @@ No filter. No corporate speak. Just building stuff I find interesting.
 
 | cluster | repos |
 |---|---|
-| 🤖 **agent studio** | `agent-kit` · `agent-lab` |
+| 🦞 **AI agent** | `agent-kit` · `agent-lab` · `openclaw-workspace` |
 | 🚚 **logistics platform** | `logistics-hub` · `ktm-cargo` · `cross-border-cargo` · `cargoflow` · `logistics-cross-border` · `logipro` |
 | 🌐 **personal** | `freddie-portfolio` · `my-teashop-pos` · `restaurant-pos` · `notion-store` |
 | 🗄️ **archived** | `archive-*` · `freddie-portfolio-legacy` |
