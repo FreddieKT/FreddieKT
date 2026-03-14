@@ -30,8 +30,8 @@ No filter. No corporate speak. Just building stuff I find interesting.
 |---|---|---|
 | [logistics-hub](https://github.com/FreddieKT/logistics-hub) | 🏗️ multi-tenant SaaS control tower for cargo operations | **active** |
 | [ktm-cargo](https://github.com/FreddieKT/ktm-cargo) | ⚡ KTM Cargo Express — real shipping + shopping platform | **active** |
-| [agent-kit](https://github.com/FreddieKT/agent-kit) | 🤖 modular AI agent toolkit | **building** |
-| [agent-lab](https://github.com/FreddieKT/agent-lab) | 🧪 personal agent workspace & experiments | **always tinkering** |
+| [agent-kit](https://github.com/FreddieKT/agent-kit) | 🤖 modular AI agent toolkit | **archived** |
+| [agent-lab](https://github.com/FreddieKT/agent-lab) | 🧪 personal agent workspace & experiments | **archived** |
 | [openclaw-workspace](https://github.com/FreddieKT/openclaw-workspace) | 🦞 Knox — my personal AI agent running 24/7 via Telegram | **running** |
 
 ---
@@ -79,7 +79,7 @@ No filter. No corporate speak. Just building stuff I find interesting.
 
 | cluster | repos |
 |---|---|
-| 🦞 **AI agent** | `agent-kit` · `agent-lab` · `openclaw-workspace` |
+| 🦞 **AI agent** | `openclaw-workspace` · `agent-kit` · `agent-lab` |
 | 🚚 **logistics platform** | `logistics-hub` · `ktm-cargo` · `cross-border-cargo` · `cargoflow` · `logistics-cross-border` · `logipro` |
 | 🌐 **personal** | `freddie-portfolio` · `my-teashop-pos` · `restaurant-pos` · `notion-store` |
 | 🗄️ **archived** | `archive-*` · `freddie-portfolio-legacy` |
