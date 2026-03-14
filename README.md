@@ -1,7 +1,7 @@
 # Freddie Thaung — automation studio 🦞
 
 > Hobbyist builder | Agent systems | Logistics sketches
-> I keep my GitHub tidy: clean prefixes (`openclaw-`, `cargo-`, `archive-`), short writeups, and a lightweight archive for older experiments. This page is the catalog for that studio.
+> This catalog keeps things simple: concept-based names (`agent-*`, `logistics-*`, `archive-*`), short writeups, and the stories behind the experiments. If it still matters, it stays listed here.
 
 ---
 
@@ -9,41 +9,41 @@
 
 | Cluster | Repos | Vibe |
 |---------|-------|------|
-| **OpenClaw studio** | `openclaw-assistant`, `openclaw-system-core`, `openclaw-v2-lab`, `openclaw-source-code`, `openclaw-workspaces-hub` | Agent automation, docs, and toolkits for your own assistant stack. |
-| **Cargo systems** | `cargo-control-tower`, `cargo-ktm-express`, `cargo-thai-myanmar`, `cargo-withus`, `cargo-crossborder`, `cargo-app-core`, `cargo-fleetbase-air` | Logistics and ERP sketches, multi-tenant control tower, and CLI-friendly workflows. |
-| **Personal tools** | `personal-scheduler`, `freddie-portfolio`, `freddie-profile`, `xlab-erp-architect` | Routine automations, the portfolio/home base, and ERP research. |
+| **Agent studio** | `agent-kit`, `agent-core`, `agent-lab`, `agent-source`, `agent-works` | Automation stack, docs, and toolkits for my OpenClaw studio. |
+| **Logistics studio** | `logistics-hub`, `logistics-express`, `logistics-cross-border`, `logistics-partner`, `logistics-border`, `logistics-core`, `logistics-air` | Cargo and ERP sketches, multi-tenant control, CLI-friendly tooling. |
+| **Personal tools** | `personal-scheduler`, `freddie-portfolio`, `freddie-profile`, `xlab-erp-architect` | Routine automations, portfolio/showcase, ERP notes.
 
 ---
 
 ## Studio notes
 
-### OpenClaw studio
-- `openclaw-assistant`: Personal assistant experiments and automation hooks.
-- `openclaw-system-core`: System config + automation around OpenClaw agents.
-- `openclaw-v2-lab`: Workspace v2 for docs, skills, and prototyping.
-- `openclaw-source-code`: Shared snippet pool and helpers.
-- `openclaw-workspaces-hub`: Catalog of workspaces and companion notes.
+### Agent studio
+- `agent-kit`: Personal assistant experiments and automation hooks.
+- `agent-core`: System config and runtime automation for OpenClaw.
+- `agent-lab`: Workspace lab for docs, skills, and prototyping.
+- `agent-source`: Shared code snippets and helpers.
+- `agent-works`: Catalog of workspaces and companion guides.
 
-### Cargo systems
-- `cargo-control-tower`: Multi-tenant logistics control center.
-- `cargo-ktm-express`: Nepal/Thailand cargo MVP.
-- `cargo-thai-myanmar`: Cross-border shipping experiments.
-- `cargo-withus`: Partner-focused tools.
-- `cargo-crossborder`: Border workflow playbook.
-- `cargo-app-core`: Shared utilities for cargo work.
-- `cargo-fleetbase-air`: Air cargo automation experiments.
+### Logistics studio
+- `logistics-hub`: Multi-tenant control center for cargo SaaS.
+- `logistics-express`: Nepal/Thailand cargo MVP.
+- `logistics-cross-border`: Cross-border shipping experiments.
+- `logistics-partner`: Partner-focused logistics tooling.
+- `logistics-border`: Border workflow playbook.
+- `logistics-core`: Shared cargo utilities.
+- `logistics-air`: Air cargo automation experiments.
 
 ### Personal tools
-- `personal-scheduler`: Morning reset, focus sprint, night shutdown + Telegram logs.
-- `freddie-portfolio`: The showcase that’s actually active right now.
-- `freddie-profile`: Config + profile helpers for this account.
+- `personal-scheduler`: Morning reset, focus sprint, night shutdown plus Telegram log.
+- `freddie-portfolio`: Active showcase (current UX + highlights).
+- `freddie-profile`: Profile config and small helpers.
 - `xlab-erp-architect`: ERP architecture notes and sketches.
 
 ---
 
 ## Archived / offline
 
-These are still here for reference but archived for clarity:
+The quiet experiments—still searchable but archived:
 - `archive-royal-tulip-website`
 - `archive-x-lab-workspace`
 - `archive-sentinal-project-tracker`
@@ -53,6 +53,6 @@ These are still here for reference but archived for clarity:
 
 ## Want to collaborate?
 
-Ping me on Telegram `@ktythaung` or open an issue in `freddie-portfolio` with your idea. No agency pitch—just friendly tinkering.
+Ping me on Telegram `@ktythaung` or open an issue in `freddie-portfolio`. No agenda—just curious people swapping ideas.
 
-*Studio mode: clean, honest, curious.*
+*Studio mode: clear, calm, curious.*
