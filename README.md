@@ -1,6 +1,16 @@
 # Freddie K.
 
-🇲🇲 → 🇹🇭 · UTC+7 · [freddie-portfolio.pages.dev](https://freddie-portfolio.pages.dev) · [@ktythaung](https://x.com/ktythaung)
+Builder. Night owl. Terminal-native.
+
+🇲🇲 → 🇹🇭 · UTC+7
+
+---
+
+I ship small tools, AI workflows, and the occasional weird experiment. Most of my repos are private, but what's public here is what I'm comfortable showing.
+
+The real workspace is at **[freddie-portfolio.pages.dev](https://freddie-portfolio.pages.dev)** — labs, notes, and whatever I'm tinkering with.
+
+[@ktythaung](https://x.com/ktythaung) on X. I don't post much.
 
 ---
 
