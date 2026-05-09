@@ -6,7 +6,7 @@
 
 🇲🇲 Myanmar-born → 🇹🇭 Thailand-based · UTC+7 · music always on
 
-[![Portfolio](https://img.shields.io/badge/portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-main-xi-weld.vercel.app)
+[![Portfolio](https://img.shields.io/badge/portfolio-000?style=flat-square&logo=cloudflarepages&logoColor=white)](https://freddie-portfolio.pages.dev)
 [![X](https://img.shields.io/badge/@ktythaung-000?style=flat-square&logo=x&logoColor=white)](https://x.com/ktythaung)
 [![Kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/khantthurathaung)
 
@@ -28,11 +28,9 @@ No filter. No corporate speak. Just building stuff I find interesting.
 
 | project | what it is | status |
 |---|---|---|
-| [logistics-hub](https://github.com/FreddieKT/logistics-hub) | 🏗️ multi-tenant SaaS control tower for cargo operations | **active** |
+| [freddie-portfolio](https://github.com/FreddieKT/freddie-portfolio) | 🌐 personal site + AI workflow notes — Astro + Cloudflare Pages | **live** |
 | [ktm-cargo](https://github.com/FreddieKT/ktm-cargo) | ⚡ KTM Cargo Express — real shipping + shopping platform | **active** |
-| [agent-kit](https://github.com/FreddieKT/agent-kit) | 🤖 modular AI agent toolkit | **archived** |
-| [agent-lab](https://github.com/FreddieKT/agent-lab) | 🧪 personal agent workspace & experiments | **archived** |
-| [openclaw-workspace](https://github.com/FreddieKT/openclaw-workspace) | 🦞 Knox — my personal AI agent running 24/7 via Telegram | **running** |
+| [ktm-cargo-legal](https://github.com/FreddieKT/ktm-cargo-legal) | ⚖️ KTM Cargo legal docs, policies, and compliance | **active** |
 
 ---
 
@@ -41,7 +39,7 @@ No filter. No corporate speak. Just building stuff I find interesting.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -79,10 +77,8 @@ No filter. No corporate speak. Just building stuff I find interesting.
 
 | cluster | repos |
 |---|---|
-| 🦞 **AI agent** | `openclaw-workspace` · `agent-kit` · `agent-lab` |
-| 🚚 **logistics platform** | `logistics-hub` · `ktm-cargo` · `cross-border-cargo` · `cargoflow` · `logistics-cross-border` · `logipro` |
-| 🌐 **personal** | `freddie-portfolio` · `my-teashop-pos` · `restaurant-pos` · `notion-store` |
-| 🗄️ **archived** | `archive-*` · `freddie-portfolio-legacy` |
+| 🚚 **logistics** | `ktm-cargo` · `ktm-cargo-legal` |
+| 🌐 **personal** | `freddie-portfolio` |
 
 ---
 
