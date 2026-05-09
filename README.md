@@ -1,16 +1,14 @@
 # Freddie K.
 
-Builder. Night owl. Terminal-native.
-
 🇲🇲 → 🇹🇭 · UTC+7
 
 ---
 
-I ship small tools, AI workflows, and the occasional weird experiment. Most of my repos are private, but what's public here is what I'm comfortable showing.
+I build strange tools for real life — automation workflows, memory systems, and odd little interfaces for work that repeats.
 
-The real workspace is at **[freddie-portfolio.pages.dev](https://freddie-portfolio.pages.dev)** — labs, notes, and whatever I'm tinkering with.
+Most things happen at **[freddie-portfolio.pages.dev](https://freddie-portfolio.pages.dev)** — labs for AI agents, terminal UX experiments, and notes worth keeping after the tab is closed.
 
-[@ktythaung](https://x.com/ktythaung) on X. I don't post much.
+[@ktythaung](https://x.com/ktythaung)
 
 ---
 
