@@ -19,3 +19,11 @@ Most things happen at **[freddie-portfolio.pages.dev](https://freddie-portfolio.
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### Currently Building
+
+- **[KTM Cargo Express](https://github.com/FreddieKT/ktm-cargo)** — BKK→YGN freight + shopping, logistics ops
+- **[POS Starter Kit](https://github.com/FreddieKT/pos-starter-kit)** — Myanmar small business POS
+- **[Kairos Daydreamer](https://github.com/FreddieKT/kairos-daydreamer)** — AI-assisted creative ideation
