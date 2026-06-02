@@ -4,25 +4,36 @@
 
 ---
 
-Tinkerer with an ops brain. I take messy real-world problems — logistics, payments, small business workflows — and reduce them to systems a machine can run.
+I’m a developer who likes turning messy problems into simple, useful systems.
 
-Currently: building freight ops tooling for SEA cross-border commerce, offline-first POS for Myanmar shops, and AI agent workflows for creative + automation tasks. I care about things that work in production, not just on localhost.
+I work across web apps, automation, internal tools, and AI-assisted workflows. Most of my projects sit somewhere between software, operations, and business.
+
+My interests change often, but the pattern stays the same:
+
+- Understand the problem
+- Build the system
+- Measure the result
+- Improve the process
+
+I enjoy exploring technology, automation, science, design, and the way complex systems behave.
 
 ---
 
 ### 🧰 Working With
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](#)
-[![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)](#)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
-[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](#)
+TypeScript • Python • Node.js • Astro • Supabase • Docker • n8n • GitHub Actions
 
 ---
 
-> *"Stop explaining. Start building."*
+### Current Focus
+
+- Building useful software
+- Learning through experimentation
+- Automating repetitive work
+- Exploring AI and system design
+
+---
+
+> "Stop explaining. Start building."
 
 [@ktythaung](https://x.com/ktythaung)
