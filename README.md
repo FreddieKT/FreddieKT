@@ -4,19 +4,9 @@
 
 ---
 
-Tinkerer with an ops brain. I build real-world tools at the intersection of logistics, automation, and AI agents. Currently based in Thailand, shipping to Myanmar.
+Tinkerer with an ops brain. I take messy real-world problems — logistics, payments, small business workflows — and reduce them to systems a machine can run.
 
-What drives me: taking a messy real-world problem and reducing it to something a machine can handle. I care about systems that actually run in production, not just on localhost.
-
----
-
-### 🚢 What I'm Building
-
-| Project | Stack | What It Does |
-|---|---|---|
-| [KTM Cargo Express](https://github.com/FreddieKT/ktm-cargo) | TypeScript · Supabase · n8n | Bangkok↔Yangon freight ops — inventory, pricing, tracking |
-| [POS Starter Kit](https://github.com/FreddieKT/pos-starter-kit) | TypeScript · Next.js · SQLite | Offline-first POS for small shops in Myanmar |
-| [Kairos Daydreamer](https://github.com/FreddieKT/kairos-daydreamer) | Python · LLMs · Obsidian | AI-assisted creative ideation with memory |
+Currently: building freight ops tooling for SEA cross-border commerce, offline-first POS for Myanmar shops, and AI agent workflows for creative + automation tasks. I care about things that work in production, not just on localhost.
 
 ---
 
