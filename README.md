@@ -23,4 +23,4 @@ Usually somewhere between software, systems, AI, business, and whatever caught m
 
 ---
 
-[@ktythaung](https://x.com/ktythaung)
+🌐 [freddie-portfolio.pages.dev](https://freddie-portfolio.pages.dev) · 🐙 [github.com/FreddieKT](https://github.com/FreddieKT) · [@ktythaung](https://x.com/ktythaung)
